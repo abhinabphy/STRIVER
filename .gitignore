@@ -1,0 +1,2 @@
+//remove all .bin files from git tracking
+*.bin
