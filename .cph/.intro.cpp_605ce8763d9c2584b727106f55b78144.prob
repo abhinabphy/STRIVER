@@ -1,0 +1,1 @@
+{"name":"Local: intro","url":"/Users/abhinabdas/STRIVER/intro.cpp","tests":[{"id":1779196804150,"input":"8 9","output":""},{"id":1779201550162,"input":"6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abhinabdas/STRIVER/intro.cpp","group":"local","local":true}
